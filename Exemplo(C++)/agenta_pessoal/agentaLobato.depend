@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1605467132 source:c:\users\victo\desktop\nova pasta\agentalobato\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"agenda.h"
+
+1605467131 c:\users\victo\desktop\nova pasta\agentalobato\agenda.h
+
+1605467136 source:c:\users\victo\desktop\nova pasta\agentalobato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"agenda.h"
+
+1605467132 source:c:\users\victo\documents\ifsp\2°semestre ctrl+aut\prce\agenda_ponteiro_func\agendaoficial_entraga\agentalobato\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"agenda.h"
+
+1605467131 c:\users\victo\documents\ifsp\2°semestre ctrl+aut\prce\agenda_ponteiro_func\agendaoficial_entraga\agentalobato\agenda.h
+
+1605467136 source:c:\users\victo\documents\ifsp\2°semestre ctrl+aut\prce\agenda_ponteiro_func\agendaoficial_entraga\agentalobato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"agenda.h"
+
