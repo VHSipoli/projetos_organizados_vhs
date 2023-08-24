@@ -1,0 +1,1 @@
+Esteira Seletora de materiais por tamanho (P, M,G) e tipo de material (plastico ou metal). Esse projeto forá feito pela turma inteira da matéria de Microcontroladores, eu, especificamente, fiquei com a parte de mostrar os dados capitados na serial (2023).
