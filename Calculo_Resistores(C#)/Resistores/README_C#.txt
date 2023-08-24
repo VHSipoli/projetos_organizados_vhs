@@ -1,0 +1,2 @@
+Este programa calcula corrente, tensão e outras caracteristicas elétrica, fornecendo ao programa alguns dados pré estabelecidos. Autoria própria (2019).
+Coloquei uma atalho do .exe, para maior facildiade.
