@@ -1,0 +1,1 @@
+Esse projeto de Arduino é o mais recente, gostei bastante de faze-lo, ele é uma especie de estuda automatica, onde recebe a leitura de um sensor de temperatura (DhT11) e modifica os estados de aquecedor, refrigerador, humidificador e alarme. Também implementei ele no LabView+Arduino com o PT100.
